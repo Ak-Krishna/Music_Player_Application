@@ -1,4 +1,4 @@
-package com.example.easytutomusicapp;
+package com.example.Music_Player_;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;

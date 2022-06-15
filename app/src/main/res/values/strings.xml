@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">EasyTutoMusicApp</string>
+    <string name="app_name">ISangeet</string>
+    <string name="title_of_song">Title of the song</string>
 </resources>
